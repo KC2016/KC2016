@@ -1,4 +1,4 @@
-### Hi there. I am Karina Condeixa. 👋
+### Hi there. I am Karina Condeixa. :woman_technologist:
 
 Goal-oriented, dedicated, and attentive to details data analyst. With 7+ years in quantitative research, I transitioned to data analytics and data science by cooperating with an [open-source project](https://github.com/scalability4all/voice-enabled-chatbot) and working for SoundCloud in Berlin, Germany. I am currently enrolled in the [TechLabs Data Science programm](https://techlabs.org/dataScience/) with the cohort in Berlin. 
 
