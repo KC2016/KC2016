@@ -15,3 +15,8 @@ Goal-oriented, dedicated, and attentive to details data analyst. With 7+ years i
 </div>
 
 
+### Articles in Medium
+
+- ["Zu verschenken”: from sustainable practice to the disturbance of public spaces](https://medium.com/p/a090b5095db8)
+- [Building a ranking-based recommendations system](https://medium.com/p/e3adeb2c00f7)
+
