@@ -1,14 +1,11 @@
 ### Hi there. I am Karina. :woman_technologist:
 ##
-Goal-oriented, dedicated, and attentive to details data analyst. With 7+ years in quantitative research and 2+ in tech. I transitioned to data analytics and data science by cooperating with an [open-source project](https://github.com/scalability4all/voice-enabled-chatbot) and working for SoundCloud in Berlin, Germany. I completed the [TechLabs Data Science programm](https://techlabs.org/dataScience/) with the cohort in Berlin. I am looking for a position as a Data Analyst.
+Detail-oriented Data Analyst with experience in metrics, data cleaning, and creating impactful visualizations and dashboards using SQL, Python, and Looker. Skilled in delivering actionable insights and supporting decision-making. Proven leadership abilities and a commitment to accuracy and excellence.
+Key Skills: 
+*Technical:* SQL, PostgreSQL, MySQL, Python, Jupyter Notebook, Excel, Looker, Tableau, Dashboards.
+*Analytical & Business:* BI Metrics, Agile, KPIs, Project Management, Trello, Problem-Solving.
 
-##
-#### Tech skills
-<div>
-  <img align="center" alt="ka-postgre" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="ka-python" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img  align="center" alt="ka-jupyter" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img align="center" alt="ka-pandas" height="30 width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="center" alt="ka-numpy" height="30 width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img  align="center" alt="ka-googlecloud" height="30 width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-</div>
+
+
+
+
