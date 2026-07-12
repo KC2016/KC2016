@@ -1,12 +1,6 @@
 ### Hi there. I am Karina. :woman_technologist: 
 ##
-Detail-oriented Data Analyst with experience in metrics, data cleaning, and creating impactful visualizations and dashboards using SQL, Python, and Looker. Skilled in delivering actionable insights and supporting decision-making. Proven leadership abilities and a commitment to accuracy and excellence.
+Detail-oriented Data & Product Analyst with a strong background in Sustainability and Life Cycle Assessment (LCA). Experienced in metrics, data cleaning, and creating impactful dashboards using SQL, Python, and cloud tools to deliver actionable, data-driven insights for business and environmental decision-making.
 
 ### Key Skills: 
-- **Technical:** SQL, PostgreSQL, MySQL, Python, Jupyter Notebook, Excel, Looker, Tableau, Dashboards.
-- **Analytical & Business:** BI Metrics, Agile, KPIs, Project Management, Trello, Problem-Solving.
-
-
-
-
-
+My Technical Skills include SQL (PostgreSQL, MySQL), Google BigQuery, Python (Pandas, NumPy), Jupyter Notebook, Looker Studio, Tableau, and Git/GitHub. On the Analytical & Business side, my core strengths are Product Analytics, KPI Design, BI Metrics, Agile Methodologies, Project Management, and Life Cycle Assessment (LCA).
