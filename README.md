@@ -1,6 +1,9 @@
 ### Hi there. I am Karina. :woman_technologist: 
-##
-Detail-oriented Data & Product Analyst with a strong background in Sustainability and Life Cycle Assessment (LCA). Experienced in metrics, data cleaning, and creating impactful dashboards using SQL, Python, and cloud tools to deliver actionable, data-driven insights for business and environmental decision-making.
 
-### Key Skills: 
-My Technical Skills include SQL (PostgreSQL, MySQL), Google BigQuery, Python (Pandas, NumPy), Jupyter Notebook, Looker Studio, Tableau, and Git/GitHub. On the Analytical & Business side, my core strengths are Product Analytics, KPI Design, BI Metrics, Agile Methodologies, Project Management, and Life Cycle Assessment (LCA).
+PhD-level Data & Product Analyst specializing in Environmental Modeling, Sustainability, and Life Cycle Assessment (LCA). Experienced in processing large-scale datasets, data pipeline execution, and creating high-impact dashboards to transform complex regulatory and environmental data into actionable business decisions.
+
+### 🛠️ Technical Skills
+
+* **Data Engineering & Analytics:** SQL (PostgreSQL, MySQL), Google BigQuery, Python (Pandas, NumPy), Jupyter Notebook, Git/GitHub.
+* **Domain & Business Expertise:** Life Cycle Assessment (LCA), EcoInvent Database, KPI Design, BI Metrics, Product Analytics, Agile Methodologies, Project Management.
+* **Data Visualization:** Looker Studio, Tableau.
