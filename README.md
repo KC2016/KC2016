@@ -1,6 +1,7 @@
 # Hi there! I'm Karina 👩‍💻
 
-**PhD-level Data & Product Analyst** specializing in **Environmental Modeling, Sustainability, and Life Cycle Assessment (LCA)**. Experienced in engineering data pipelines, processing large-scale scientific datasets, and building high-impact dashboards to transform complex regulatory and environmental data into actionable business metrics.
+**Junior Data Analyst** specializing in **Python Automation, SQL Querying, and Business/Operational Intelligence**. 
+Experienced in engineering data pipelines, processing large-scale datasets, and building high-impact dashboards to transform complex operational data into actionable business insights.
 
 ---
 
@@ -8,13 +9,14 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Data Engineering & Analytics** | Python (`Pandas`, `NumPy`), SQL (`PostgreSQL`, `MySQL`), Google BigQuery, Jupyter Notebook, Git |
-| **Environmental & Sustainability** | Life Cycle Assessment (LCA), EcoInvent Database, GHG Accounting, IPCC Frameworks |
-| **Product & Business Metrics** | Product Analytics (Funnel & Cohort), KPI Design, Agile Methodologies |
-| **Data Visualization** | Looker Studio, Tableau, Excel |
+| **Data Engineering & Analytics** | Python (`Pandas`, `NumPy`, `openpyxl`, `Flask`), SQL (`PostgreSQL`, `SQLite`), Google BigQuery, Jupyter Notebook, Git, GitHub |
+| **Data Analysis & Modeling** | Statistical Modeling, Data Cleansing, KPI Tracking, Workflow Automation, Process Optimization |
+| **Product & Business Metrics** | Product Analytics, Operational KPI Design, Agile Methodologies |
+| **Data Visualization** | Looker Studio, Tableau, Advanced Excel |
 
 ---
 
 ### 📈 What I Do
-* **Bridge Science & Code:** Translating complex environmental frameworks into automated, scalable data workflows.
-* **Product & Environmental Metrics:** Designing robust KPIs that align operational efficiency with regulatory compliance and business growth.
+
+* **Bridge Data & Operations:** Translating complex operational and technical criteria into structured, automated data workflows.
+* **Metrics & Dashboards:** Designing robust KPIs and interactive dashboards that align operational efficiency with data-driven decision-making.
