@@ -11,7 +11,7 @@ Experienced in engineering data pipelines, processing large-scale datasets, and 
 | :--- | :--- |
 | **Data Engineering & Analytics** | Python (`Pandas`, `NumPy`, `openpyxl`, `Flask`), SQL (`PostgreSQL`, `SQLite`), Google BigQuery, Jupyter Notebook, Git, GitHub |
 | **Data Analysis & Modeling** | Statistical Modeling, Data Cleansing, KPI Tracking, Workflow Automation, Process Optimization |
-| **Product & Business Metrics** | Product Analytics, Operational KPI Design, Agile Methodologies | Mixpanel (Event Tracking, Funnels, Cohorts)|
+| **Product & Business Metrics** | Product Analytics, Operational KPI Design, Agile Methodologies, Mixpanel (Event Tracking, Funnels, Cohorts) |
 | **Data Visualization** | Looker Studio, Tableau, Advanced Excel |
 
 ---
