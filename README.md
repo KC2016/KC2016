@@ -1,6 +1,6 @@
 # Hi there! I'm Karina 👩‍💻
 
-**Junior Data Analyst** specializing in **Python Automation, SQL Querying, and Business/Operational Intelligence**. 
+****Data & Product Analyst*** specializing in **Python Automation, SQL Querying, and Business/Operational Intelligence**. 
 Experienced in engineering data pipelines, processing large-scale datasets, and building high-impact dashboards to transform complex operational data into actionable business insights.
 
 ---
@@ -11,7 +11,7 @@ Experienced in engineering data pipelines, processing large-scale datasets, and 
 | :--- | :--- |
 | **Data Engineering & Analytics** | Python (`Pandas`, `NumPy`, `openpyxl`, `Flask`), SQL (`PostgreSQL`, `SQLite`), Google BigQuery, Jupyter Notebook, Git, GitHub |
 | **Data Analysis & Modeling** | Statistical Modeling, Data Cleansing, KPI Tracking, Workflow Automation, Process Optimization |
-| **Product & Business Metrics** | Product Analytics, Operational KPI Design, Agile Methodologies |
+| **Product & Business Metrics** | Product Analytics, Operational KPI Design, Agile Methodologies | Mixpanel (Event Tracking, Funnels, Cohorts)|
 | **Data Visualization** | Looker Studio, Tableau, Advanced Excel |
 
 ---
