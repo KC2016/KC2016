@@ -1,6 +1,6 @@
 # Hi there! I'm Karina 👩‍💻
 
-****Data & Product Analyst*** specializing in **Python Automation, SQL Querying, and Business/Operational Intelligence**. 
+***Data & Product Analyst*** specializing in **Python Automation, SQL Querying, and Business/Operational Intelligence**. 
 Experienced in engineering data pipelines, processing large-scale datasets, and building high-impact dashboards to transform complex operational data into actionable business insights.
 
 ---
